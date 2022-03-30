@@ -9,11 +9,11 @@ type: page
 * content
 {:toc}
 
-## 关于我
+## About me
 
 <iframe src="https://google.com" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-## 联系我
+## Contact
 
 * GitHub：[rosiz](https://github.com/)
 * email：rosiz@github.io
